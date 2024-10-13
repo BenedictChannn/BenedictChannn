@@ -5,7 +5,7 @@
 
 - 🔭 I’m enthusiastic about: **Computer Vision, Autonomous Robotics, Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning for embedded systems**
+- 🌱 I’m currently learning **Generative AI and usage of VLMs**
 
 - 📫 Reach me at: **benedictchan247@gmail.com**
 
